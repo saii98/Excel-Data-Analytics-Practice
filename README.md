@@ -21,3 +21,19 @@ Employee Salary Dataset
 - Employee classification
 - Eligibility calculations
 - Error handling
+  
+# Excel Day-3: Text Functions
+
+Topics Covered:
+- LEFT()
+- RIGHT()
+- MID()
+- LEN()
+- TRIM()
+- CONCAT()
+
+Business Applications:
+- Extracting codes from IDs
+- Cleaning employee data
+- Creating full names and email_id
+- Data preparation for analysis
